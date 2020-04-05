@@ -1,0 +1,99 @@
+FAIL: GET ABCDEFabcdef012345XYZxyz-mn HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-mp HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-mo HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-mm HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-m2 HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-m2 HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-mc HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-mb HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-ma HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-md HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-mb HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-mc HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-ma HTTP/1.1 --- response 400
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-md HTTP/1.1 --- response 400
+========
+GET ABCDEFabcdef012345XYZxyz-ma length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mc length 0
+========
+GET ABCDEFabcdef012345XYZxyz-md length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mb length 0
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-mf HTTP/1.1 --- response 400
+========
+GET ABCDEFabcdef012345XYZxyz-md length 0
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-me HTTP/1.1 --- response 400
+========
+GET ABCDEFabcdef012345XYZxyz-ma length 0
+========
+GET ABCDEFabcdef012345XYZxyz-md length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mc length 0
+========
+GET ABCDEFabcdef012345XYZxyz-ma length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mb length 0
+========
+PUT ABCDEFabcdef012345XYZxyz-mn length 14
+48 65 6c 6c 6f 20 57 6f 72 6c 64 20 32 0a 
+========
+PUT ABCDEFabcdef012345XYZxyz-mm length 14
+48 45 4c 4c 4f 20 57 4f 52 4c 44 20 31 0a 
+========
+PUT ABCDEFabcdef012345XYZxyz-mm length 14
+48 45 4c 4c 4f 20 57 4f 52 4c 44 20 31 0a 
+========
+GET ABCDEFabcdef012345XYZxyz-ma length 0
+========
+FAIL: GET ABCDEFabcdef012345XYZxyz-me HTTP/1.1 --- response 400
+========
+GET ABCDEFabcdef012345XYZxyz-mb length 0
+========
+GET ABCDEFabcdef012345XYZxyz-ma length 0
+========
+GET ABCDEFabcdef012345XYZxyz-md length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mc length 0
+========
+GET ABCDEFabcdef012345XYZxyz-md length 0
+========
+GET ABCDEFabcdef012345XYZxyz-ma length 0
+========
+GET ABCDEFabcdef012345XYZxyz-ma length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mf length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mb length 0
+========
+GET ABCDEFabcdef012345XYZxyz-md length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mf length 0
+========
+GET ABCDEFabcdef012345XYZxyz-ma length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mc length 0
+========
+GET ABCDEFabcdef012345XYZxyz-md length 0
+========
+GET ABCDEFabcdef012345XYZxyz-mb length 0
+========
+GET ABCDEFabcdef012345XYZxyz-md length 0
+========
+GET ABCDEFabcdef012345XYZxyz-ma length 0
+========
